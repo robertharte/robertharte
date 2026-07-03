@@ -4,10 +4,10 @@ Freelance consultant engineer, project manager, and e-commerce administrator at 
 
 ---
 
-E-Commerce & Automation
+E-Commerce & Automation:
 Designing checkout funnels, payment integrations, and automated pipelines using Python, Node.js, and Google Apps Script.
 
-Home Automation & Embedded Systems
+Home Automation & Embedded Systems:
 Deploying localized data pipelines using Home Assistant, Raspberry Pi, and ESP32 microcontrollers for custom telemetry and monitoring.
 
 ---
